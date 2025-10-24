@@ -5,3 +5,4 @@ Oszczędzaczyk i oszczędzacz to kopiarka i powielarka ma w sobie pienidze okre�
 Jest to radio drukarka kwntowa z cyfrowym portfele elektronicznym z gotówką. 
 Ten portfel ma ciągle gotówkę a oszczędzaczyk i oszczędzacz to skarbonka schowek elektronicczny na gotówkę i rzeczy o określonej pojemności. 
 Oszczędzaczyk i oszczędzacz to skabronka elektroniczny schowek nawet na rzeczy od kaliego linuxa i c pitona zwykła skarbonka na kórą trzeba wpłacać zarobione pieniadze nie drukowane pieniadze a zarobione na etacie czy z renty lub zasiłku czy emerytury. 
+Pomysł oszczędzaczyk i oszczedzacz z skarbonką elektroniczną schowkiem elektronicznym na różne rzeczy to pomysł majowej i daunów taki jak kali i cpiton. 
