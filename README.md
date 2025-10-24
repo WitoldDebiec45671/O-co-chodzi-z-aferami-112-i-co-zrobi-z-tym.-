@@ -1,0 +1,1 @@
+# O-co-chodzi-z-aferami-112-i-co-zrobi-z-tym.-
