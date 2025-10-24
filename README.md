@@ -4,3 +4,4 @@ Można komputerowo drukować pieniedze radio drukarkom kwantową w małej ilośc
 Oszczędzaczyk i oszczędzacz to kopiarka i powielarka ma w sobie pienidze określoną ilość zapisaną nie jak w portfelu tyle ile się chce. 
 Jest to radio drukarka kwntowa z cyfrowym portfele elektronicznym z gotówką. 
 Ten portfel ma ciągle gotówkę a oszczędzaczyk i oszczędzacz to skarbonka schowek elektronicczny na gotówkę i rzeczy o określonej pojemności. 
+Oszczędzaczyk i oszczędzacz to skabronka elektroniczny schowek nawet na rzeczy od kaliego linuxa i c pitona zwykła skarbonka na kórą trzeba wpłacać zarobione pieniadze nie drukowane pieniadze a zarobione na etacie czy z renty lub zasiłku czy emerytury. 
